@@ -32,10 +32,10 @@ https://github.com/qqension/predprof_exam.git
 ### 1.py
 ``` python3 1.py ```
 ### 2.py
-``` python3 1.py ```
+``` python3 2.py ```
 ### 3.py
-``` python3 1.py ```
+``` python3 3.py ```
 ### 4.py
-``` python3 1.py ```
+``` python3 4.py ```
 ### 5.py
-``` python3 1.py ```
+``` python3 5.py ```
